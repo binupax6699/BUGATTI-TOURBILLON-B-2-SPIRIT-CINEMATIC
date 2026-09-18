@@ -2,8 +2,8 @@
 
 <table>
 <tr>
-<td><img src="001.png" width="450"></td>
-<td><img src="002.png" width="450"></td>
+<td><img src="shots/001.png" width="450"></td>
+<td><img src="shots/003.png" width="450"></td>
 </tr>
 </table>
 
@@ -17,8 +17,8 @@ A large part of the project focused on building and refining the surrounding env
 
 <table>
 <tr>
-<td><img src="003.png" width="450"></td>
-<td><img src="004.png" width="450"></td>
+<td><img src="shots/002.png" width="450"></td>
+<td><img src="shots/006.png" width="450"></td>
 </tr>
 </table>
 
@@ -29,6 +29,13 @@ The scene was developed around the Bugatti Tourbillon and B-2 Spirit, with addit
 The environment, lighting, materials, and scene elements were continuously refined throughout the project.
 
 Optimization was also an important part of the workflow, keeping the scene detailed while reducing unnecessary performance costs and allowing it to run more efficiently.
+
+<table>
+<tr>
+<td><img src="shots/005.png" width="450"></td>
+<td><img src="shots/004.png" width="450"></td>
+</tr>
+</table>
 
 ## Cinematic
 
