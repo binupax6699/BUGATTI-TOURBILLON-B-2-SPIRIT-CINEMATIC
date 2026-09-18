@@ -41,8 +41,6 @@ Optimization was also an important part of the workflow, keeping the scene detai
 
 The project was created with cinematic presentation in mind, including scene composition, camera work, lighting, and environmental detail.
 
-The Blender project is **completed**. The final video edit will be added separately.
-
 **YouTube Video:** [wach the full video]
 
 ## Music
